@@ -1,0 +1,3 @@
+C:\Users\User\Desktop\ооп\Lab2\x64\Debug\Lab2.exe
+C:\Users\User\Desktop\ооп\Lab3\x64\Debug\Lab3.exe
+C:\Users\User\Desktop\ооп\Lab4\x64\Debug\Lab4.exe
