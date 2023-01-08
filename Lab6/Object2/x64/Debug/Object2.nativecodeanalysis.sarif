@@ -1,0 +1,67 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.33.31629.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///c:/users/k1llr34l/desktop/misc/учеба/c++/oop/lab6/object2/object2.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "c4a6c7b721e1d722d097c8f73a471dcd1a6805a4709ae309beed282d6f332533"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/k1llr34l/desktop/misc/учеба/c++/oop/lab6/object2/framework.h"
+          },
+          "hashes": {
+            "sha-256": "2b21ce6cc551e43347ced8d3ea893abe9938b013ea73ffc0485a5db50fdfa939"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/k1llr34l/desktop/misc/учеба/c++/oop/lab6/object2/targetver.h"
+          },
+          "hashes": {
+            "sha-256": "563086bbd5a02b6806b42b992f22b7b311dfbfadcf7736b4e3992bc82d5b5a80"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/k1llr34l/desktop/misc/учеба/c++/oop/lab6/object2/object2.h"
+          },
+          "hashes": {
+            "sha-256": "c9ffd7114c78943d5359e1f1a638c507caaf6d72cac9296310fe051cd47b3177"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/k1llr34l/desktop/misc/учеба/c++/oop/lab6/object2/resource.h"
+          },
+          "hashes": {
+            "sha-256": "5bff45d34403b7560da8eb456463b157dede8a2999f650a6143a74be2f062467"
+          }
+        }
+      ]
+    }
+  ]
+}
